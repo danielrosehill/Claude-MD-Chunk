@@ -1,3 +1,5 @@
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude-MD-Chunk
 
 A Claude Code slash command that prunes bloated `CLAUDE.md` files down to their essentials and nests supplementary context into an `agent-context/` folder.
@@ -24,3 +26,7 @@ In any project with a bloated `CLAUDE.md`, run:
 ```
 /chunk-claude
 ```
+
+---
+
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
